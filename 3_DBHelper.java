@@ -75,4 +75,3 @@ class DataBaseHelper extends SQLiteOpenHelper {
         return cursor;
     }
 }
-
