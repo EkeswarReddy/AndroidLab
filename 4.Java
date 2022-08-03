@@ -21,7 +21,7 @@ ImageView imageView;
         setContentView(R.layout.activity_main);
 
 
-        imageView=findViewById(R.id.imageView);
+        imageView=findViewById(R.id.imgDisplay);
         Button btnGallery=findViewById(R.id.btnGallery);
         Button btnCamera=findViewById(R.id.btnCamera);
 
